@@ -1,0 +1,11 @@
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: orange;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1rem;
+  }
