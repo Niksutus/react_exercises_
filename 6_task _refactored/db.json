@@ -1,0 +1,12 @@
+{
+   "notes": [
+       {
+           "id": 1,
+           "firstname":"Matti",
+           "lastname": "Meikäläinen",
+           "phonenumber": "12345679",
+           "message": "This is a message",
+           "role": "teacher"
+       }
+   ]
+}
